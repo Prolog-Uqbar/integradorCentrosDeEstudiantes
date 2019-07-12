@@ -39,7 +39,7 @@ Se quiere averiguar
 2. Si es cierto que siempre gana el mismo.
 3. Si hubo fraude en un año en particular, lo que ocurre si hay más votos registrados que electores en el padrón. 
 4. Todos los años en que hubo fraude.
-5. Comprobar si hay algun departamento que tenga más estudiantes que todos los demás departamentos sumados.
+5. Comprobar si hay algun departamento que tenga más estudiantes que todos los demás departamentos sumados, en un año en particular
 
 ### Segunda parte
 Nos llega información extraoficial sobre las acciones que realiza cada agrupación
@@ -47,7 +47,7 @@ Nos llega información extraoficial sobre las acciones que realiza cada agrupaci
 ~~~
 %realizoAccion(agrupacion, accion).
 realizoAccion(franjaNaranja, lucha(salarioDocente)).
-realizoAccion(franjaNaranja, gestionIndividual(“Excepción de correlativas”, juanPerez, 2019)).
+realizoAccion(franjaNaranja, gestionIndividual(excepcionCorrelativas, juanPerez, 2019)).
 realizoAccion(franjaNaranja, obra(2019)).
 realizoAccion(agosto29, lucha(salarioDocente)).
 realizoAccion(agosto29, lucha(boletoEstudiantil)).
