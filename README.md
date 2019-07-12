@@ -13,12 +13,12 @@ elecciones(2019).
 
 Tenemos un padrón de estudiantes regulares, organizado por carrera y año.
 ~~~
-estudiantes(sistemas, 2019, juanPerez).
-estudiantes(sistemas, 2019, unter).
-estudiantes(sistemas, 2019, mathy).
-estudiantes(sistemas, 2017, unter).
-estudiantes(sistemas, 2017, mathy).
-estudiantes(sistemas, 2018, unter).
+estudiante(sistemas, 2019, juanPerez).
+estudiante(sistemas, 2019, unter).
+estudiante(sistemas, 2019, mathy).
+estudiante(sistemas, 2017, unter).
+estudiante(sistemas, 2017, mathy).
+estudiante(sistemas, 2018, unter).
 ~~~
 
 Y por supuesto tenemos la info de la cantidad de votos obtenida en cada elección
