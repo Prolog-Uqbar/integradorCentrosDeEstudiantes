@@ -1,0 +1,2 @@
+# integradorCentrosDeEstudiantes
+Ejercicio tipor parcial
