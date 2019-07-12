@@ -19,7 +19,7 @@ votos(seu, 917, 2019).
 
 %realizoAccion(agrupacion, accion).
 realizoAccion(franjaNaranja, lucha(salarioDocente)).
-realizoAccion(franjaNaranja, gestionIndividual(“Excepción de correlativas”, juanPerez, 2019)).
+realizoAccion(franjaNaranja, gestionIndividual(excepcionCorrelativas, juanPerez, 2019)).
 realizoAccion(franjaNaranja, obra(2019)).
 realizoAccion(agosto29, lucha(salarioDocente)).
 realizoAccion(agosto29, lucha(boletoEstudiantil)).
