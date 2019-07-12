@@ -45,6 +45,7 @@ Se quiere averiguar
 Nos llega información extraoficial sobre las acciones que realiza cada agrupación
 
 ~~~
+%realizoAccion(agrupacion, accion).
 realizoAccion(franjaNaranja, lucha(salarioDocente)).
 realizoAccion(franjaNaranja, gestionIndividual(“Excepción de correlativas”, juanPerez, 2019)).
 realizoAccion(franjaNaranja, obra(2019)).
