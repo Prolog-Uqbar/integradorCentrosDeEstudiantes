@@ -64,3 +64,10 @@ Realizar los predicados para encontrar a las agrupaciones que sean:
 ### Tercera parte
 * Elegir alguno de los predicados realizados que sea inversible y otro que no, y justificar la utilidad y alcances del concepto. 
 * Mostrar ejemplos de consulta.
+
+-----------
+### Consignas alternativas 
+[Variante 1](https://docs.google.com/document/d/1zCWrMU9x8CQ_Vf0hkx5yw13lsGdU_MBMJQVmAuEW0oI/edit?usp=sharing)
+
+[Variante 2](https://docs.google.com/document/d/19QUjoCaPMNfk8f0EQ1qKaAV05mXmMrXEGcWKhcJojtA/edit?usp=sharing)
+
